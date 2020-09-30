@@ -1,6 +1,6 @@
 {
-	"author": "Miles Barnett",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Miles Barnett",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
